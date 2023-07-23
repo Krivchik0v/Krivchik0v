@@ -16,4 +16,4 @@ $~$
 
 $~$
 # ✉ Links
-  $~$ [📧 <b>Email</b>](woodpoison81@gmail.com) $~~~~$ [🎯 <b>Codewars</b>](https://www.codewars.com/users/PierreWatford)
+  $~$ [📧 <b>Email</b>](mailto:woodpoison81@gmail.com) $~~~~$ [🎯 <b>Codewars</b>](https://www.codewars.com/users/PierreWatford)
