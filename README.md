@@ -12,7 +12,7 @@
 
 $~$
 ## 🛠 Currently working on:
-### $~$ ♟ Chess game in  C++
+### $~$ [♟ Chess game in  C++](https://github.com/Krivchik0v/Chess_project)
 
 $~$
 # ✉ Links
